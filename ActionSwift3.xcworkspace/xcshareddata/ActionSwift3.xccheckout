@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EAD4C078-692A-4CAA-A55C-80849146B05A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ActionSwift3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E8DC998664C24067DBB3E3342AF8BB31A87FFDA</key>
+		<string>https://github.com/WildenChen/LionEvents</string>
+		<key>B06A9F69127A047D304762E0C27E806AE10F7093</key>
+		<string>https://github.com/WildenChen/ActionSwift3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActionSwift3.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E8DC998664C24067DBB3E3342AF8BB31A87FFDA</key>
+		<string>../../LionEvents</string>
+		<key>B06A9F69127A047D304762E0C27E806AE10F7093</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WildenChen/ActionSwift3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B06A9F69127A047D304762E0C27E806AE10F7093</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B06A9F69127A047D304762E0C27E806AE10F7093</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ActionSwift3</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E8DC998664C24067DBB3E3342AF8BB31A87FFDA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LionEvents</string>
+		</dict>
+	</array>
+</dict>
+</plist>
